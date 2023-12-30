@@ -8,10 +8,6 @@ namespace SDK
 		MonoBehaviourPunFields _;
 		GhostTraits GhostTraits; // very important 1!!!1
 		// don't care about other fields
-		//void* Field1;
-		//void* Field2;
-		//float Field3;
-		//bool Field4;
 	};
 
 	struct GhostInfo
